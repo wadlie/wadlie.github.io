@@ -1,0 +1,37 @@
+[
+  {
+    "id": "AeroBar",
+    "price": 3.50,
+    "name": "Aero",
+    "description": "Canadian chocolate bar",
+	"stock": 5
+  },
+  {
+    "id": "KitKatBar",
+    "price": 2.75,
+    "name": "Kit Kat",
+    "description": "A chocolate-covered wafer bar confection.",
+	"stock": 5
+  },
+  {
+    "id": "SnickersBar",
+    "price": 3,
+    "name": "Snickers",
+    "description": "A brand name chocolate bar made by the American company Mars, Incorporated previously known in the UK as 'Marathon' but changed in 1990. Consisting of nougat topped with caramel and peanuts, enrobed in milk chocolate.",
+	"stock": 5
+  },
+  {
+    "id": "WonkaBar",
+    "price": 1.99,
+    "name": "Wonka",
+    "description": "Made by Nestlé and sold under their Willy Wonka Candy Company brand, Wonka Bars sold in the United States until January 2010 consisted of small, graham cracker pieces dipped in milk chocolate.",
+	"stock": 5
+  },
+  {
+    "id": "TwixBar",
+    "price": 2.50,
+    "name": "Twix",
+    "description": "Twix is a chocolate bar containing biscuit made by Mars, Inc., consisting of a biscuit applied with other confectionery toppings and coatings (most frequently caramel and milk chocolate).",
+	"stock": 5
+  }
+]
